@@ -39,11 +39,5 @@ to my personal GitHub profile!
 </div>
 
 
-<h1 align="center">{{name}}</h1>
-<p align="center"><em>{{tagline}}</em></p>
-
-<p align="center">
-  <img src="./metrics.activity.svg" alt="activity pulse" width="100%" />
-</p>
 
 
